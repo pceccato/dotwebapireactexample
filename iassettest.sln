@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iassettest", "iassettest\iassettest.csproj", "{A87BEC50-BD83-428A-9ED9-87C02E3CC841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iassettest.Tests", "iassettest.Tests\iassettest.Tests.csproj", "{DE991327-EDB4-4081-A777-083A10E973A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87BEC50-BD83-428A-9ED9-87C02E3CC841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87BEC50-BD83-428A-9ED9-87C02E3CC841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87BEC50-BD83-428A-9ED9-87C02E3CC841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87BEC50-BD83-428A-9ED9-87C02E3CC841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE991327-EDB4-4081-A777-083A10E973A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE991327-EDB4-4081-A777-083A10E973A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE991327-EDB4-4081-A777-083A10E973A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE991327-EDB4-4081-A777-083A10E973A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
